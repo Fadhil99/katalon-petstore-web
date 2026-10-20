@@ -3,8 +3,8 @@ Automation Testing for JPetstore Demo
 
 Mencakup 5 Test Cases :
 
-| No	| Test Case ID | Deskripsi | Skenario	| DDT
-| --- | --- || --- | --- || --- |
+ No	| Test Case ID | Deskripsi | Skenario	| DDT
+ --- | --- | --- | --- | --- 
 1	| TC1_LoginCheck	| Menguji login pengguna yang telah terdaftar.  | Positif(uname&pass benar)/Negatif(uname/pass salah).  | Ya
 
 2	| TC2_SearchByProductName	 | Melakukan pencarian katalog menggunakan nama produk pada text box input search.	  | Positif(nama produk ada di katalog)/Negatif(tidak ada input produk). | Ya
