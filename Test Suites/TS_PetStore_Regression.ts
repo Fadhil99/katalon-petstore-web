@@ -118,18 +118,18 @@
       <testCaseId>Test Cases/MainTestCase/TC5_Logout</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>b8e8aa3b-d914-43f5-9df2-70bb3f979790</id>
+         <id>cbcf4144-f382-4f69-8366-38455862b6cd</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/LoginStatus</testDataId>
+         <testDataId>Data Files/LoginData</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>b8e8aa3b-d914-43f5-9df2-70bb3f979790</testDataLinkId>
+         <testDataLinkId>cbcf4144-f382-4f69-8366-38455862b6cd</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>loginStatus</value>
+         <value>testType</value>
          <variableId>37d22222-f7e7-44fd-a2bb-9aafc520fdea</variableId>
       </variableLink>
    </testCaseLink>

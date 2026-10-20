@@ -17,6 +17,6 @@
       <description></description>
       <id>37d22222-f7e7-44fd-a2bb-9aafc520fdea</id>
       <masked>false</masked>
-      <name>loginStatus</name>
+      <name>testType</name>
    </variable>
 </TestCaseEntity>

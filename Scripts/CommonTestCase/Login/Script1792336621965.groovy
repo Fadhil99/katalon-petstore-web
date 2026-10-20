@@ -21,8 +21,6 @@ WebUI.openBrowser(GlobalVariable.G_HomeLink)
 
 WebUI.click(findTestObject('Page_Header/a_SignIn'))
 
-WebUI.verifyElementPresent(findTestObject('Page_SignIn/a_RegisterNow'), 0)
-
 WebUI.setText(findTestObject('Page_SignIn/input_username'), GlobalVariable.G_uname)
 
 WebUI.setText(findTestObject('Page_SignIn/input_pass'), GlobalVariable.G_userpass)

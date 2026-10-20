@@ -14,7 +14,7 @@
          <value>//*[@id=&quot;Cart&quot;]/a</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
@@ -23,6 +23,6 @@
       <name>text</name>
       <type>Main</type>
       <value>Proceed to Checkout</value>
-      <webElementGuid>241460c0-265a-4d2d-9f84-507e5cd412f7</webElementGuid>
+      <webElementGuid>498b5fe8-7559-433c-a068-449369c100c8</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
