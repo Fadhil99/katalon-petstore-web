@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Cart</name>
+   <tag></tag>
+   <elementGuidId>1c2ae43d-4245-49a2-838f-23b8fef238c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;MenuContent&quot;]/a[1]/img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;MenuContent&quot;]/a[1]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>MenuContent</value>
+      <webElementGuid>df650b7d-9825-486c-be05-ccdc81e69653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;MenuContent&quot;]/a[1]/img</value>
+      <webElementGuid>e2b4f751-9aea-49af-aed7-3e129e1d688e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

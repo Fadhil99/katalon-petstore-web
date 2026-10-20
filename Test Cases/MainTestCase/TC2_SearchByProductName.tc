@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_SearchByProductName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1d15cc2-3d54-4ae2-b5ef-cfa5dec9fe59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a0e1f19-3645-4f62-902b-fff780ef7cdc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8a0e1f19-3645-4f62-902b-fff780ef7cdc</id>
+      <masked>false</masked>
+      <name>ProductName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_CheckOutProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e37e6e75-a5dc-47b7-82d6-a87246b6dc85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2699bb38-6eb9-4878-bfb8-40d84e84cf93</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>2699bb38-6eb9-4878-bfb8-40d84e84cf93</id>
+      <masked>false</masked>
+      <name>CartEmpty</name>
+   </variable>
+</TestCaseEntity>

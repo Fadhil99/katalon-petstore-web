@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_QuickLinkDogs</name>
+   <tag></tag>
+   <elementGuidId>9d690962-9248-4216-b586-1b616f48980f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;QuickLinks&quot;]/a[2][count(. | //*[@img = '//*[@id=&quot;QuickLinks&quot;]/a[2]/img']) = count(//*[@img = '//*[@id=&quot;QuickLinks&quot;]/a[2]/img'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;QuickLinks&quot;]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;QuickLinks&quot;]/a[2]</value>
+      <webElementGuid>5fbab26b-e5d1-4db0-b1cc-3ebe369e0a63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>img</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;QuickLinks&quot;]/a[2]/img</value>
+      <webElementGuid>c5773eff-6f5b-4f61-af4c-dd501c53e98d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

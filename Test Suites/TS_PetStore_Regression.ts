@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_PetStore_Regression</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>925b4373-3ba2-4bc6-acb9-e7d298bfd06d</testSuiteGuid>
+   <testCaseLink>
+      <guid>0b76f35c-7df8-4b8e-9d89-c0722ee63fc8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MainTestCase/TC1_LoginCheck</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>48d79be1-2dc8-40da-9b09-c13be93b8a54</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>48d79be1-2dc8-40da-9b09-c13be93b8a54</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>6f6c7ee6-b1ae-4997-a1f5-9eb4984b1db1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>48d79be1-2dc8-40da-9b09-c13be93b8a54</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>1f8c6cb5-a9fb-4c16-af05-44c69dadff5b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>48d79be1-2dc8-40da-9b09-c13be93b8a54</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testType</value>
+         <variableId>562909ae-67ee-43e3-9180-90e1a21d4aa2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b45352e0-1f15-4960-90e8-72765cabe084</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MainTestCase/TC2_SearchByProductName</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b75cc96b-c5bc-456d-b057-257982d308d3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ProductName</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b75cc96b-c5bc-456d-b057-257982d308d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ProductName</value>
+         <variableId>8a0e1f19-3645-4f62-902b-fff780ef7cdc</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f5d8e4df-7173-4f81-a5fb-aad62365e1b7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MainTestCase/TC3_AddProductToCartByCategory</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>23dcab4e-fe61-44de-8960-f8d23b5181c9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ProductCategory</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>23dcab4e-fe61-44de-8960-f8d23b5181c9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ProductCategory</value>
+         <variableId>04b8ca11-3a14-4c91-944c-e8c3d80d12ab</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>29d95920-b88e-4cae-b3d7-2c5bab9f3b90</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MainTestCase/TC4_CheckOutProduct</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>79313821-ada4-42fe-a4be-8f3aca28240e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CartEmpty</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>79313821-ada4-42fe-a4be-8f3aca28240e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CartEmpty</value>
+         <variableId>2699bb38-6eb9-4878-bfb8-40d84e84cf93</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e78c98aa-e1e8-4e34-b74f-8a22a4aed4ff</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/MainTestCase/TC5_Logout</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b8e8aa3b-d914-43f5-9df2-70bb3f979790</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginStatus</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b8e8aa3b-d914-43f5-9df2-70bb3f979790</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>loginStatus</value>
+         <variableId>37d22222-f7e7-44fd-a2bb-9aafc520fdea</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

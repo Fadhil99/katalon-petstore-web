@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Help</name>
+   <tag></tag>
+   <elementGuidId>e8924471-7998-415c-a392-939820ee17b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;MenuContent&quot;]/a[3][count(. | //*[(text() = '?' or . = '?')]) = count(//*[(text() = '?' or . = '?')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;MenuContent&quot;]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;MenuContent&quot;]/a[3]</value>
+      <webElementGuid>7817714c-ea6a-4d59-88b6-61cd8c016116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>?</value>
+      <webElementGuid>eeee1b6d-80c0-4992-a12b-d476006afe5c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

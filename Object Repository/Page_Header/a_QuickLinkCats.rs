@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_QuickLinkCats</name>
+   <tag></tag>
+   <elementGuidId>a5ff869b-d879-4d2f-8d52-d98ac3331980</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;QuickLinks&quot;]/a[4]/img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;QuickLinks&quot;]/a[4]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;QuickLinks&quot;]/a[4]/img</value>
+      <webElementGuid>6d6a3d52-fb3e-472a-adfd-282365bb2b8a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_AddProductToCartByCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5f1faa85-60d9-43fc-9aa0-b572430d1593</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04b8ca11-3a14-4c91-944c-e8c3d80d12ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Birds'</defaultValue>
+      <description></description>
+      <id>04b8ca11-3a14-4c91-944c-e8c3d80d12ab</id>
+      <masked>false</masked>
+      <name>ProductCategory</name>
+   </variable>
+</TestCaseEntity>

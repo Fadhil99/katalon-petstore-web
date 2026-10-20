@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f3872e9-22e5-46f9-bca4-69d53226cae0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37d22222-f7e7-44fd-a2bb-9aafc520fdea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>37d22222-f7e7-44fd-a2bb-9aafc520fdea</id>
+      <masked>false</masked>
+      <name>loginStatus</name>
+   </variable>
+</TestCaseEntity>

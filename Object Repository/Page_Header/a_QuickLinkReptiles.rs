@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_QuickLinkReptiles</name>
+   <tag></tag>
+   <elementGuidId>bae9bc45-3556-4b05-b3da-27a2c091ba8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;QuickLinks&quot;]/a[3]/img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;QuickLinks&quot;]/a[3]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;QuickLinks&quot;]/a[3]/img</value>
+      <webElementGuid>3e3b6368-fefd-4443-99d2-6b8aa4d9f467</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

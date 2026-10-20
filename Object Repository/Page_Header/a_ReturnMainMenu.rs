@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ReturnMainMenu</name>
+   <tag></tag>
+   <elementGuidId>13c44f06-a34f-49e2-86b1-01d9b1c67b97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;BackLink&quot;]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;BackLink&quot;]/a</value>
+      <webElementGuid>272c7f70-f878-4774-9888-b4c467b08719</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
